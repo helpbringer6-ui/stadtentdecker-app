@@ -10,3 +10,6 @@ Vielen Dank, dass du daran interessiert bist, zur Stadtentdecker-App beizutragen
 
 ## Verhaltenskodex
 Bitte halte dich an unseren Verhaltenskodex, um sicherzustellen, dass unser Projekt ein sicherer und respektvoller Ort für die Zusammenarbeit ist.
+
+## Zusätzliche Informationen
+Wenn du Fragen hast, zögere nicht, unser Team zu kontaktieren oder die Issues im Repository zu überprüfen.
