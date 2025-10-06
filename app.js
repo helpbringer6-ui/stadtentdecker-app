@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Stadtentdecker App bereit!');
+    console.log('City Explorer App is ready!');
 });
