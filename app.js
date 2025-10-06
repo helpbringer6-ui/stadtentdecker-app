@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('City Explorer App is ready!');
+    console.log('City Explorer Application has been initialized!');
 });
