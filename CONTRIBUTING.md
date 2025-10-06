@@ -9,4 +9,4 @@ Vielen Dank, dass du daran interessiert bist, zur Stadtentdecker-App beizutragen
 4. Schicke einen Pull-Request zurück zu diesem Repository.
 
 ## Verhaltenskodex
-Bitte halte dich an unseren Verhaltenskodex, um sicherzustellen, dass unser Projekt ein sicherer und respektvoller Ort für Zusammenarbeit ist.
+Bitte halte dich an unseren Verhaltenskodex, um sicherzustellen, dass unser Projekt ein sicherer und respektvoller Ort für die Zusammenarbeit ist.
